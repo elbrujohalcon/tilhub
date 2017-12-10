@@ -5,4 +5,4 @@ tags:
 - tilhub
 ---
 
-Competing in spawnfest is exhillarating. Organizing it is cool. Watching it happen from the organizing seat is **amazing!!**
+Competing in spawnfest is awesome. Organizing it and watching it develop from here is **amazing!!**
