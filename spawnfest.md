@@ -5,4 +5,4 @@ tags:
 - tilhub
 ---
 
-Competing in spawnfest is awesome. Organizing it and watching it develop from here is **amazing!**
+Competing in spawnfest is awesome. Organizing it and watching it develop from here is amazing!
